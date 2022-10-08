@@ -897,7 +897,7 @@ let msg = {
         restrict: '*ʀᴇsᴛʀɪᴄᴛ* • ʀᴇsᴛʀɪᴄᴛ ʙᴇʟᴜᴍ ᴅɪɴʏᴀʟᴀᴋᴀɴ ᴅɪᴄʜᴀᴛ ɪɴɪ'}[type]
   /*  if (msg) return conn.sendButtonDoc(m.chat, msg, wm, 'Menu', '.menu', fgclink)*/
   if (msg) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, msg + '\n\n\n\n', 'MENU', '.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/_b4c00t4an_s3l3b',
+    mediaUrl: 'https://www.instagram.com/p/CjcUwnCPfCJZD89j45mXLechTR1IbglYJ2Q5JY0/?igshid=YmMyMTA2M2Y=',
     mediaType: 2, 
     description: sgc,
     title: "Join Sini Juga Cuy!",
